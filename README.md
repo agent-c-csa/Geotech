@@ -12,4 +12,4 @@ To use this code, you must install the [Mido](https://github.com/olemb/mido/) an
 | Clean LED | 3.3v | GPIO02 |
 | Distorted LED | 3.3v | GPIO22 |
 
-For more information, visit http://geotechgeeks.com/Home/Footswitch.
+For more information, visit https://geotechgeeks.com/Footswitch.html.
